@@ -1,5 +1,7 @@
 import React from 'react';
 import './Navigation/Navigation.css'; // Make sure the path to your CSS file is correct
+// import NavTabs from './src/components/NavTabs.js';
+
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
