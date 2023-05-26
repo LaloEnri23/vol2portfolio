@@ -5,11 +5,11 @@ import AboutMe from './AboutMe';
 import Portfolio from './Portfolio';
 import Resume from './Resume';
 import Contact from './Contact';
-import NavTabs from './Navtabs';
+import NavTabs from './NavTabs';
 import Footer from './Footer'; 
 
 export default function PortfolioContainer() {
-    const [currentPage, setCurrentPage] = useState('AboutMe');
+  const [currentPage, setCurrentPage] = useState('AboutMe');
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
@@ -23,11 +23,10 @@ export default function PortfolioContainer() {
       return <Resume />;
     }
     if (currentPage === 'Contact') {
-        return <Contact />;
-      }
-      return <AboutMe />;
+      return <Contact />;
+    }
+    return <AboutMe />;
   };
-
 
   const handlePageChange = (page) => setCurrentPage(page);
 

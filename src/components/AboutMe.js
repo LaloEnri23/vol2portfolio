@@ -10,13 +10,16 @@ const AboutMe = () => {
         <img src={haroldpictm2} alt="Harold Gonzales" />
         <div>
           <p>
-            Hello, I am Harold Gonzales. I'm a graduate of Computer Engineering with Masters Degree in Information Management.
-            I have 10 Years of extensive Information Systems management, and supervision•I have comprehensive background in 
-            computer systems administration,  IT infrastructure management, Network Management,and Project Management.
+          My name is Eduardo Enriquez, and I was born on February 23, in the early 2003s, in Los Angeles, California. I take great pride in my Mexican heritage, as it has played a significant role in shaping my work ethic and values. From a young age, I was instilled with the importance of hard work, thanks to my industrious Mexican parents.
           </p>
           <p>
-            Thank you for Visiting this site. You will find more about and my accomplishments during my Full Stack Development Trainining in UCLA Extension.
-            I am happy to showcase my amazing journey of coding/training with the help of my class instructors, tutors and my collegues. 
+          At the tender age of 10, I began assisting my father with his carpentry business. It was during those formative years that I learned the value of dedication, perseverance, and attention to detail. Simultaneously, I would accompany my mother to the flea market or hit the streets to assist her in selling various items. These experiences not only honed my communication and interpersonal skills but also instilled in me an entrepreneurial spirit.
+          </p>
+          <p>
+          To maintain a healthy body and mind, I am an avid enthusiast of football (soccer). I find immense joy in playing the sport, as it allows me to stay active, sharp, and entertained. Beyond football, I indulge in other hobbies such as going to the gym to keep myself physically fit, exploring the outdoors through camping trips, and unleashing my creativity by building intricate LEGO structures.
+          </p>
+          <p>
+          Growing up in such an environment has strengthened my work ethic, both physically and mentally. The discipline and determination cultivated through football and collaborating with my parents have not only enhanced my ability to work as part of a team but have also equipped me with the skills to excel under pressure. During challenging times, I constantly remind myself to maintain a positive mentality and focus on the silver linings.
           </p>
         </div>
       </div>
