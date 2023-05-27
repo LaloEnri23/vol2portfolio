@@ -1,7 +1,7 @@
 // Imports React, the component's specific CSS styles, and a PDF file of Harold's resume.
 import React from 'react';
 import './Resume/Resume.css';
-import haroldresume from '../images/HAROLD_RESUME.pdf';
+import chato from '../images/chato.jpeg'; 
 
 // This is a functional React component named 'Resume'.
 const Resume = () => {
@@ -22,7 +22,7 @@ const Resume = () => {
       </ul>
       <ul>
         <li>
-        Aliquam tristique gravida scelerisque. Sed blandit molestie quam. Nullam maximus dui lacinia ex maximus, pulvinar condimentum ante mollis. Aliquam ac nulla ut odio faucibus interdum et id turpis. Ut sed velit diam. Donec maximus elementum nisi, posuere euismod neque. Cras id vulputate justo, ut tempor felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam fermentum justo eu aliquam congue. Maecenas vitae orci eget diam maximus vehicula. Quisque ac risus efficitur, cursus sem vitae, convallis leo. Curabitur finibus interdum efficitur. Nam feugiat urna sit amet felis auctor ultricies. Ut pulvinar facilisis vestibulum. Phasellus porttitor vel mauris quis interdum. Nam interdum dui eget sagittis auctor.
+Aliquam tristique gravida scelerisque. Sed blandit molestie quam. Nullam maximus dui lacinia ex maximus, pulvinar condimentum ante mollis. Aliquam ac nulla ut odio faucibus interdum et id turpis. Ut sed velit diam. Donec maximus elementum nisi, posuere euismod neque. Cras id vulputate justo, ut tempor felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam fermentum justo eu aliquam congue. Maecenas vitae orci eget diam maximus vehicula. Quisque ac risus efficitur, cursus sem vitae, convallis leo. Curabitur finibus interdum efficitur. Nam feugiat urna sit amet felis auctor ultricies. Ut pulvinar facilisis vestibulum. Phasellus porttitor vel mauris quis interdum. Nam interdum dui eget sagittis auctor.
 
 
       </li>

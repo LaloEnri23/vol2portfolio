@@ -1,13 +1,13 @@
 import React from 'react';
 import './AboutMe/AboutMe.css';
-import haroldpictm2 from '../images/haroldpictm2.jpg';
+import chato from '../images/chato.jpeg';
 
 const AboutMe = () => {
   return (
     <section className="about-me">
       <h2>About Me</h2>
       <div className="about-me-content">
-        <img src={haroldpictm2} alt="Harold Gonzales" />
+        <img src={chato.jpeg} alt="Eduardo Enriquez" />
         <div>
           <p>
           My name is Eduardo Enriquez, and I was born on February 23, in the early 2003s, in Los Angeles, California. I take great pride in my Mexican heritage, as it has played a significant role in shaping my work ethic and values. From a young age, I was instilled with the importance of hard work, thanks to my industrious Mexican parents.
