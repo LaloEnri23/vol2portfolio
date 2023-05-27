@@ -2,8 +2,10 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
-    background-color:#B79989;
+
+font-family: 'Major Mono Display', monospace;
+
+    background-color:#2A2F33;
 
     }
   
@@ -13,7 +15,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color:#B79989;
+    background-color:#D27252;
     padding: 10px 20px;
   }
   
@@ -48,7 +50,7 @@ body {
   
   /* styles for the footer */
   footer {
-    background-color: #333;
+    background-color: #B79989;
     color: #fff;
     text-align: center;
     padding: 20px;
